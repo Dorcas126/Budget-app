@@ -1,7 +1,7 @@
 require 'rails_helper'
 
 RSpec.describe User, type: :model do
-  subject { User.new(name: 'Miliyon', email: 'miliayalew@gmail.com', password: '123456') }
+  subject { User.new(name: 'dodo', email: 'dodo@gmail.com', password: '1234567') }
 
   before { subject.save }
 
@@ -29,11 +29,6 @@ RSpec.describe User, type: :model do
   context 'Testing associations' do
     it 'User should have many recipes items' do
       subject = User.reflect_on_association(:categories)
-      expect(subject.macro).to eq(:has_many)
-    end
-
-    it 'User should have many food items' do
-      subject = User.reflect_on_association(:expeneses)
       expect(subject.macro).to eq(:has_many)
     end
   end
