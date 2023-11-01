@@ -1,3 +1,4 @@
+# app/models/expense.rb
 class Expense < ApplicationRecord
   belongs_to :author, class_name: 'User'
   has_many :category_expenses, dependent: :destroy
