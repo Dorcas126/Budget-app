@@ -2,14 +2,18 @@ require 'rails_helper'
 
 RSpec.describe CategoryExpense, type: :model do
   subject do
-    User.create(name: 'Miliyon', email: 'miliayalew@gmail.com', password: '123456')
+    User.create(name: 'Miliyon',
+                email: 'miliayalew@gmail.com', password: '123456')
   end
 
   before(:each) do
-    @expense = Expense.new(name: 'Shoes', amount: 100, author_id: subject.id)
-    @category = Category.new(name: 'Shoes',
-                             icon: 'https://cdn.pixabay.com/photo/2013/07/12/18/20/shoes-153310__340.png',
-                             author_id: subject.id)
+    @expense = Expense.new(name: 'Shoes',
+                           amount: 100, author_id: subject.id)
+    @category = Category.new(
+      name: 'Shoes',
+      icon: 'https://cdn.pixabay.com/photo/2013/07/12/18/20/shoes-153310__340.png',
+      author_id: subject.id
+    )
     @category_expense = CategoryExpense.new(expense: @expense, category: @category)
   end
 
