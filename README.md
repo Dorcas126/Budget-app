@@ -32,12 +32,12 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Expenses App <a name="about-project"></a>
+# 📖 Budget App <a name="about-project"></a>
 
 # 📖 Description <a name="Description-Note"></a>
 > Describe your project in 1 or 2 sentences.
 
-The Expenses app keeps track of all your purchases organized in categories of your creation. It allows you to create new categories and create new expenses for each category. In order to use the app, a user must register.
+The Budget app keeps track of all your purchases organized in categories of your creation. It allows you to create new categories and create new expenses for each category. In order to use the app, a user must register.
 
 ## Project presentation link
 
