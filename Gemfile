@@ -73,7 +73,7 @@ group :test do
   gem 'selenium-webdriver'
 end
 
-gem 'devise', '~>4.9.0'
+gem 'devise', '4.9.0'
 
 gem 'letter_opener', '~> 1.8'
 
