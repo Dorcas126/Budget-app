@@ -30,11 +30,11 @@ The Expenses app keeps track of all your purchases organized in categories of yo
 
 ## Project presentation link
 
-[Presentation of APP]()
+[Presentation of APP](https://www.loom.com/share/cb22d6984aae4c1e8b85308502c0cad8)
 
 # Live Demo Application link
 
-[Live Demo]()
+[Live Demo](https://mami-vowx.onrender.com/)
 
 ## 🛠️ Built With <a name="built-with"></a>
 
