@@ -163,7 +163,6 @@ If you like this project please give it a star
 - Gregoire Vella (Former product designer).
 - behance.net.
 - Code reviewers.
-- My partners.
 
 <!-- LICENSE -->
 
