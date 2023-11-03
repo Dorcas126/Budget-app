@@ -2,11 +2,13 @@ require 'rails_helper'
 
 RSpec.describe Expense, type: :model do
   subject do
-    User.create(name: 'Miliyon', email: 'miliayalew@gmail.com', password: '123456')
+    User.create(name: 'Miliyon',
+                email: 'miliayalew@gmail.com', password: '123456')
   end
 
   before(:each) do
-    @expense = Expense.new(name: 'Shoes', amount: 100, author_id: subject.id)
+    @expense = Expense.new(name: 'Shoes',
+                           amount: 100, author_id: subject.id)
   end
 
   context 'Testing validations' do
