@@ -1,3 +1,14 @@
+<a name="readme-top"></a>
+
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="https://dl.dropboxusercontent.com/s/36qn9s23n9mgsth/dorcaslogo.png" alt="logo" width=""  height="auto" />
+  <br/>
+
+  <h3><b></b></h3>
+
+</div>
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -30,11 +41,11 @@ The Expenses app keeps track of all your purchases organized in categories of yo
 
 ## Project presentation link
 
-[Presentation of APP]()
+[Presentation of APP](https://www.loom.com/share/cb22d6984aae4c1e8b85308502c0cad8)
 
 # Live Demo Application link
 
-[Live Demo]()
+[Live Demo](https://clun.onrender.com/)
 
 ## 🛠️ Built With <a name="built-with"></a>
 
@@ -77,9 +88,9 @@ https://github.com/Dorcas126/Budget-app.git
   cd my-folder
   
 ```
-recipe-app
+Budget-app
 
-### Istall
+### Install
 install this project with:
   bundle install
   rails db:create
@@ -149,15 +160,15 @@ If you like this project please give it a star
 
 ## 🤝 My  Acknownlagement
 - Micorverse team.
-- Gregoire Vella (Former product designer).
+- Design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella)
 - behance.net.
 - Code reviewers.
-- My partners.
+- Partners
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./https://github.com/Dorcas126/Budget-app/blob/development/LICENSE) licensed.
+This project is [MIT](https://github.com/Dorcas126/Budget-app/blob/development/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
