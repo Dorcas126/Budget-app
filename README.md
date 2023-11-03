@@ -45,7 +45,7 @@ The Expenses app keeps track of all your purchases organized in categories of yo
 
 # Live Demo Application link
 
-[Live Demo](https://mami-vowx.onrender.com/)
+[Live Demo](https://clun.onrender.com/)
 
 ## 🛠️ Built With <a name="built-with"></a>
 
