@@ -160,7 +160,7 @@ If you like this project please give it a star
 
 ## 🤝 My  Acknownlagement
 - Micorverse team.
-- Gregoire Vella (Former product designer).
+- Design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella)
 - behance.net.
 - Code reviewers.
 - Partners
